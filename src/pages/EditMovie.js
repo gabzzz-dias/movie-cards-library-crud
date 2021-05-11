@@ -63,4 +63,8 @@ EditMovie.propTypes = {
   params: PropTypes.object,
 }.isRequired;
 
+// Obtive ajuda dos meus colegas Letícia Galvão e Leandro Reis para entender algumas lógicas necessárias para alguns dos componentes desse projeto.
+// link da PR dela src: https://github.com/tryber/sd-010-b-project-movie-card-library-crud/pull/55
+// link da PR dele src: https://github.com/tryber/sd-010-b-project-movie-card-library-crud/pull/58
+
 export default EditMovie;
